@@ -4,7 +4,7 @@
 The HTML is created for a fake marketing company. The website was created using semantic HTML tags.
 
 ## Screenshot:
-![screenshot](assets/images/HomeworkSnip)
+![screenshot](./assets/images/HomeworkSnip.jpg)
 
 
 ## Link:
